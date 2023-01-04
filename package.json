@@ -1,12 +1,4 @@
 {
-  "name": "Web Img Scraper API",
-  "version": "1.0.0",
-  "description": "Web Image Scraper API",
-  "main": "app.js",
-  "repository": "https://github.com/simisomt/web-img-scraper/",
-  "author": "http://www.linkedin.com/in/simiso-mthiyane-b83993210",
-  "license": "MIT",
-  "private": false,
   "scripts": {
     "start": "node app.js"
   },
